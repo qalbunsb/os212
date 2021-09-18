@@ -16,3 +16,21 @@ ZCZC W01  60 L14 Assignment #04
 ZCZC W01  60 L15 Assignment #05
 ZCZC W01  30 L16 Assignment #06
 ZCZC W01  10 L17 Assignment #07
+ZCZC W02  15 L09 Assignment in General
+ZCZC W02  90 L11 Assignment #01 (Not Finished)
+ZCZC W02  15 L14 Assignment #04
+ZCZC W02   5 L15 Assignment #05
+ZCZC W02  10 L16 Assignment #06
+ZCZC W02  10 L17 Assignment #07
+ZCZC W02  10 L18 Assignment #08
+ZCZC W02  10 L19 Assignment #9
+ZCZC W02  10 L20 Assignment #10
+ZCZC W02  10 L99 Assignment #13
+ZCZC W02   5 L99 Just being amazed by linux
+ZCZC W02  10 L26 C-language
+ZCZC W02  20 L12 Assignment #02
+
+
+
+
+
