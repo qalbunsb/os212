@@ -52,8 +52,31 @@ ZCZC W05  30 L14 Assignment #04
 ZCZC W05  30 L17 Assignment #07
 ZCZC W05  10 L18 Assignment #08
 ZCZC W05  10 L19 Assignment #09
-
-
+ZCZC W06  10 L09 Assignment in General
+ZCZC W06  60 L11 Assignment #01
+ZCZC W06  30 L12 Assignment #02
+ZCZC W06  60 L13 Assignment #03
+ZCZC W06  60 L14 Assignment #04
+ZCZC W06  30 L17 Assignment #07
+ZCZC W06  15 L18 Assignment #08
+ZCZC W06  10 L19 Assignment #09
+ZCZC W07  10 L09 Assignment in General
+ZCZC W07  60 L11 Assignment #01
+ZCZC W07  30 L12 Assignment #02
+ZCZC W07  30 L13 Assignment #03
+ZCZC W07 100 L14 Assignment #04
+ZCZC W07  20 L17 Assignment #07
+ZCZC W07  15 L18 Assignment #08
+ZCZC W07  10 L19 Assignment #09
+ZCZC W08  10 L09 Assignment in General
+ZCZC W08  30 L11 Assignment #01
+ZCZC W08  30 L12 Assignment #02
+ZCZC W08  30 L13 Assignment #03
+ZCZC W08 100 L14 Assignment #04
+ZCZC W08 150 L15 Assignment #05
+ZCZC W08  15 L18 Assignment #08
+ZCZC W08  10 L19 Assignment #09
+ZCZC W08  10 L20 Assignment #10
 
 
 
